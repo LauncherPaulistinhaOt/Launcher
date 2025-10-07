@@ -1,5 +1,5 @@
 {
-	"clientVersion": "cliente-0.3",
+	"clientVersion": "cliente-0.2",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -8,9 +8,6 @@
 		},
 		{
 			"name": "bin"
-		},
-		{
-			"name": "sounds"
 		}
 	],
 	"clientFolder": "",
