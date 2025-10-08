@@ -1,5 +1,5 @@
 {
-	"clientVersion": "cliente-0.2",
+	"clientVersion": "cliente-0.3",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -10,8 +10,12 @@
 			"name": "bin"
 		},
 		{
+			"name": "minimap"
+		},
+		{
 			"name": "sounds"
 		}
+		
 	],
 	"clientFolder": "",
 	"newClientUrl": "https://github.com/LauncherPaulistinhaOt/Launcher/releases/download/1.0.0/Client.zip",
